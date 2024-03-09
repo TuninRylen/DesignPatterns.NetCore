@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = CQRSDesignPattern
+build_property.ProjectDir = C:\Users\ugrst\source\repos\DesignPatterns.NetCore\DesignPatterns.NetCore\CQRS\CQRSDesignPattern\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
